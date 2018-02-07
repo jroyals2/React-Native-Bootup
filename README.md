@@ -5,7 +5,7 @@ So create-react-native-app wants you to use an older version of either node or n
 
 npm install -g npm@4
 
-
+now you can run the create-react-native-app to build out a new project
 this will globally install the older version of NPM so when you are done with the APP do not forget to run 
 
 npm install npm@latest -g
